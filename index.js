@@ -1,0 +1,20 @@
+{
+    "name": "Tachiyomi: Mangas No Sekai",
+    "pkg": "eu.kanade.tachiyomi.extension.es.mangasnosekai",
+    "apk": "tachiyomi-es.mangasnosekai-v1.4.50.apk",
+    "lang": "es",
+    "code": 50,
+    "version": "1.4.50",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Mangas No Sekai",
+        "lang": "es",
+        "id": "829053423099062956",
+        "baseUrl": "https://mangasnosekai.com",
+        "versionId": 1
+      }
+    ]
+  }
